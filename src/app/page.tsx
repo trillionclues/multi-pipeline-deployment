@@ -15,7 +15,7 @@ export default function Home() {
         />{" "}
         <div className={styles.ctas}>
           <a className={styles.primary} target="_blank">
-            This is the Production Branch
+            This is the Production Branch.
           </a>
         </div>
       </main>
