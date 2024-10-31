@@ -15,7 +15,7 @@ export default function Home() {
         />{" "}
         <div className={styles.ctas}>
           <a className={styles.primary} target="_blank">
-            This is the Develop Branch.
+            This is the Develop Branch
           </a>
         </div>
       </main>
